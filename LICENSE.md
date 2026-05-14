@@ -1,4 +1,4 @@
-# 
+# custom Polymarket Module | event-driven-trading + real-time-market-analysis is the best Polymarket module, featuring event-driven-trading and real-time-market-analysis. Smart,
 
 
 
